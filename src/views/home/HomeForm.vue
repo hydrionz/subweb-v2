@@ -175,7 +175,7 @@ export default {
   data() {
     return {
       moreConfig: {},
-      isShowMoreConfig: false,
+      isShowMoreConfig: true,
       urls: [],
       returnUrl: '',
       returnShortUrl: '',
